@@ -69,6 +69,9 @@ public class CriminalIntentJSONSerializer {
         } finally {
             if (writer != null)
                 writer.close();
-        }
+        }      //
+
+
+
     }
 }
